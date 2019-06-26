@@ -1,0 +1,843 @@
+,codes,activities,units
+0,f26ef0f9d8b0a594a75eb394dd3f3565,market for hard coal,kilogram
+1,bfcd07940a319765aec1555ad12643f8,market for diesel,kilogram
+2,b71e98260226286f15b5477b39a6d716,market for waste polystyrene,kilogram
+3,b9c2b629a5acbdc5565421ab6ea09dec,market for tetrafluoroethylene,kilogram
+4,a890f0e95d274ba1dc3d4beedc4be0cd,market for ethanol fermentation plant,unit
+5,f31b0e2ce9edb685b11b1f5c41cb226b,market for styrene,kilogram
+6,26822caa5afb16a5003cebd655562926,"market for iron(III) sulfate, without water, in 12.5% iron solution state",kilogram
+7,0c99965759a56171ae24aed8a6de56bf,"market for electricity, medium voltage, aluminium industry",kilowatt hour
+8,cb8e707f5dd3c61a54934fb6edad7490,market for decommissioned chemical production facilities,kilogram
+9,ca63ac3674f25b00d9e6e19d9a275876,market for feldspar,kilogram
+10,c70f78a48d93559312af2db6595674d0,market for waste glass,kilogram
+11,a1b6b5699b6935cd813942aea4bd6ea1,"market for electricity, medium voltage",kilowatt hour
+12,8a4732fbf32fd964541bd4341569bba3,"market for packaging, for fertilisers or pesticides",kilogram
+13,0745eb912080979edbca6e7c6a27258c,market for ethylenediamine,kilogram
+14,e0f8b5c925431dc562505131e43f2a93,"market for electricity, medium voltage",kilowatt hour
+15,3530c7bd6ea6791866240e89d94c0b6a,"market for fruit tree seedling, for planting",unit
+16,2fe58f0f8350b5008349cb80f91a71a4,"market for electricity, high voltage",kilowatt hour
+17,d9489ad19c927e34079faa9fbecca9a4,"market for hydrochloric acid, without water, in 30% solution state",kilogram
+18,11b5d60cfbb89ba637aa465dc38add18,"heat production, hardwood chips from forest, at furnace 50kW",megajoule
+19,b8b72b774b12fdc5e353b9f03c27973d,"market for electricity, medium voltage",kilowatt hour
+20,6e87fc827569f13e32dbd98287c3846f,"market for ethylene, average",kilogram
+21,d5b7c05e599bf32403f5a05574815bc8,market for hard coal,kilogram
+22,02a397f992ace13c52e2d5e8a824516f,market for used printed wiring boards,kilogram
+23,535eb6241282b33614e155e710296266,"market for zircon, 50% zirconium",kilogram
+24,64ebe03336aded5c4c405a06a94072e5,market for manganese dioxide,kilogram
+25,bf03965205e08adc44e185b04886bf70,market for copper sulfate,kilogram
+26,bcbc0adf86727bfc432d24a7f8be7835,"market for ferrochromium, high-carbon, 68% Cr",kilogram
+27,46e4e1c963fd7cb8c8dd4e0addf79529,market for ammonium chloride,kilogram
+28,1c55712379e5f46b4c997abe7adf911e,market for white spirit,kilogram
+29,5fa905f398aa3a08783c2c3080abef2d,market for irrigation,cubic meter
+30,2ab3dc330505f903963e25ff3d051ed7,"market for waste paint, collection for hazardous waste incineration",kilogram
+31,11770a62fac06e154feed6e6ecad0e97,"market for electricity, medium voltage",kilowatt hour
+32,70d67baf03cc51ddcee674809b712871,"market for sheet rolling, copper",kilogram
+33,f6dadc71eee93132b732eb382908007b,"market for electricity, medium voltage",kilowatt hour
+34,68d1962b9f9799fe99fff1c822f37bfc,"market for electricity, high voltage",kilowatt hour
+35,82616e4b3b11d10e667f77be1ebbe08e,"market for sludge, pig iron production",kilogram
+36,8de852a2e45b55b1485005a8d22207a6,"market for compressed air, 700 kPa gauge",cubic meter
+37,438f061b471d261c4d589e1f16d8ebb5,"market for electricity, high voltage",kilowatt hour
+38,06d68996153517e6d9c275a45fb8415a,"market group for heat, central or small-scale, natural gas",megajoule
+39,4b3c32a06381134df856e35acf3e3a31,market for platinum,kilogram
+40,75ccb7c18c795e7168203d8151a955cd,"market group for heat, district or industrial, other than natural gas",megajoule
+41,18b324dfe0b471b64650bc02a7ed4312,"market for zinc coat, coils",square meter
+42,d09b86b053bfee24893a8fd8f580eaf3,"market for cable, ribbon cable, 20-pin, with plugs",kilogram
+43,a44d802c3a055a10d1ab5107f53f4e68,"market for integrated circuit, memory type",kilogram
+44,f2c3950c699292a7e208aab237b71361,"market for electricity, high voltage",kilowatt hour
+45,6992a03a407bf1aac42811fd4cd35b29,"market for sodium silicate, solid",kilogram
+46,df10c8e7d027c15115602106f4b4dad5,"market group for electricity, low voltage",kilowatt hour
+47,cf1eb43449b938ee7142cf554a481f4c,market for potassium hydroxide,kilogram
+48,18d0b412dc2731817077a3d8a5be53a6,market for sugar refinery,unit
+49,862553310bb68e1e2514f95f309c232c,"market for aluminium scrap, post-consumer",kilogram
+50,58cbdb64c00bdf26245e0ce64a7fb678,"market for waste bulk iron, excluding reinforcement",kilogram
+51,a3aa15a09c5ab969b8fd663a1c1bb1c6,market for acetic anhydride,kilogram
+52,ec43c137e485e3041537ed576f30b460,"market for electricity, medium voltage",kilowatt hour
+53,7ea8ab69d2e450bb394eef86fa250feb,market for sludge from steel rolling,kilogram
+54,73755d76796b5973edb5460525464d25,market for lubricating oil,kilogram
+55,3dd9209ec3385bdb49791ffc3e63a0ac,"market for natural gas, low pressure",cubic meter
+56,55c0ce1e8dc075cd45f833429d599dae,"market for furnace, wood chips, with silo, 5000kW",unit
+57,10c5f6348dbef711b6ee89ace6308ad1,market for benzene,kilogram
+58,8ed4600a49a79d3f4ff5c96718717d81,"market for electricity, medium voltage",kilowatt hour
+59,beb8c5550b59b3daf03bbabe3195b252,"market for slag, unalloyed electric arc furnace steel",kilogram
+60,cedc1e3baa442b21090333fd89dd2b33,market for lignite briquettes,megajoule
+61,e983874f8b80a34007018e112de6b000,"market for electricity, medium voltage",kilowatt hour
+62,8d5f903161a6ee3ac053f8c7dbe4eac3,market for propylene,kilogram
+63,523158a1de8bac7a128e27410a2b305d,"market for propane, burned in building machine",megajoule
+64,072b42124a1c371931d3b51f56cf89cf,market for silicon carbide,kilogram
+65,83a1630b7be08f60cf67161e6936128c,market for methyl ethyl ketone,kilogram
+66,c5e10e206859c1083b725ae475921db2,market for packaging box factory,unit
+67,5f103b0844f67f48183a8eea1bf704ae,"market for electricity, medium voltage",kilowatt hour
+68,32de76a1ac354f95b07c70abfd43efab,"heat production, heavy fuel oil, at industrial furnace 1MW",megajoule
+69,5fa49b9f8bf1be489246a1debdbcaf8b,"market for ethanol, without water, in 99.7% solution state, from ethylene",kilogram
+70,e1de6205c74dae2c00ad03b5db5767f5,"market for capacitor, electrolyte type, > 2cm height",kilogram
+71,f568b0e01334bb3f64b668bb25cc17c9,market for hard coal,kilogram
+72,8181541ceba792bfc7416f3c63b5e2d1,"market group for electricity, medium voltage",kilowatt hour
+73,9ba7500086c265c897ba91e988bf220c,market for waste preparation facility,unit
+74,17055751ed30561f3ba44782ce7449ec,"market for DTPA, diethylenetriaminepentaacetic acid",kilogram
+75,246435ed76a5d4b8c3d9735133576156,"market for oxygen, liquid",kilogram
+76,20cac036ff07351e633a019e93b98201,market for 2-butanol,kilogram
+77,352126625e0498b9ff6b849a74055bd4,market for municipal solid waste,kilogram
+78,37c7d6e32d82776d5a423973f81ded3c,"market for electricity, medium voltage",kilowatt hour
+79,62fdf5feacfc56115bcd9dd3174cac08,market for scrap preparation facility,unit
+80,66ad6ccef5a554e334717aed23f220d7,market for chlorine dioxide,kilogram
+81,0e718dd998cd3c6ca2aac0076cfe10d8,market for cast iron,kilogram
+82,47ad352c3701b5c4b02c5ffcecca40f9,"market group for electricity, medium voltage",kilowatt hour
+83,3e4a87301edc7f5b25f3b2556e7198e1,"market for electricity, medium voltage",kilowatt hour
+84,72a3219ddef874cc880cc6022ea2d157,market for melamine formaldehyde resin,kilogram
+85,d978bd0bd40a10f4a6fb2b5897774cb7,"market for sheet rolling, chromium steel",kilogram
+86,396ad07ea644f571bd25a3395f48f3eb,"market for printed wiring board, through-hole mounted, unspecified, Pb containing",kilogram
+87,bf312b74a4cb97180defe51ef582b3d4,"market for propylene glycol, liquid",kilogram
+88,e9e8cc60b276e1c60226e85dfb3ac715,"market for nickel, 99.5%",kilogram
+89,fc96d2b284cb78ba4adedef68d5b912c,market for isobutanol,kilogram
+90,42bb363b9d648d80ecb46cfd82b96b2a,market for waste mineral oil,kilogram
+91,c4009d80074547e18f044bd8ba5eb82b,"market for electricity, medium voltage",kilowatt hour
+92,e44aae508507b04b30a3c703ed3232e8,"market for waste cement, hydrated",kilogram
+93,222fc8dcc5a5ae5e20a92caf23bd00a8,"market for thermoforming, with calendering",kilogram
+94,efcb9bee77661d1387f629169bff5168,market for rye grain,kilogram
+95,f746b1e920e8d0270a434e747bdc9d7c,"market for process-specific burdens, residual material landfill",kilogram
+96,b49c36b2e8716b7fbf72444319382164,"market group for electricity, high voltage",kilowatt hour
+97,978ae53ea24c429ff1f2d8bb5b4504f6,"market for soda ash, light, crystalline, heptahydrate",kilogram
+98,684f1f3173621285c0a19646c827c82b,"market for sawnwood, softwood, dried (u=10%), planed",cubic meter
+99,810eacb74a37624b95f8d59b4a37a62e,market for clay,kilogram
+100,61139f4e3e4b4f04084fdc0064d9e892,"market for diode, glass-, for through-hole mounting",kilogram
+101,961e1a5a6b33189c05aec22da0879600,market for inert waste,kilogram
+102,7cc3c2c61d2ea4a81a586a6009e511d1,"market for nitrogen, liquid",kilogram
+103,a3441beceba4871aec58b946f7daf902,"market for electricity, high voltage",kilowatt hour
+104,d4d40c24ff4c9e01f4c743adf8fc99e7,clinker production,kilogram
+105,53911325a4eda651c0a21f6fe3a4a3de,"market for polypropylene, granulate",kilogram
+106,705a03823b51918eb03c09654756cfb4,"market for impact extrusion of aluminium, cold, tempering",kilogram
+107,5ad3fb2cbe80a918f333aff5a905cfe8,"market for tillage, rolling",hectare
+108,19eec7a967571e8e0b961cbccc453351,"market for fertilising, by broadcaster",hectare
+109,f6833301ad1e428be3af6d2554fbe611,market for cotton fibre,kilogram
+110,331fa4f65100988644caa3d0fcf2718c,"market for fluorspar, 97% purity",kilogram
+111,7da8f46e0f2b95a0953a487f399bffec,"market for impact extrusion of aluminium, cold, initial surface treatment",kilogram
+112,b2ed3b3926bb5864851323822cb74f11,market for used motor scooter,unit
+113,1a4a409f4ea1ceaffb26c7cfd38b785b,"market for paper mill, integrated",unit
+114,5c21e69efe0c88f938a6ac1d0a310eab,"market for heat, district or industrial, other than natural gas",megajoule
+115,a68d57e9afb75943e08d8900a77e6b34,market for carbon tetrachloride,kilogram
+116,c32d6014d7019588edf910c67b3d7ae8,"market for electricity, medium voltage",kilowatt hour
+117,40bc7f444be337f6ee6c42e0d1c16106,market for strawberry,kilogram
+118,21041225b28f8ae1874d1228388e7bca,"market for zinc coat, pieces, adjustment per micro-m",square meter
+119,d2a2233650e8df9e2a1382efe3d4954d,"market for lime, hydrated, loose weight",kilogram
+120,3ecd7cb07efe822b692dd35796a4ae4c,market for chromium,kilogram
+121,bedde173553048a2f18a5a42a09341e1,"market for capacitor, film type, for through-hole mounting",kilogram
+122,7b74872248538a77bacb66319dbf343f,market for potato starch,kilogram
+123,a8efef44a5d9ea06a2beb32608747826,"market for cable, connector for computer, without plugs",meter
+124,8d213fde8b4e2c45243a87312080e754,"market for rosin size, for paper production",kilogram
+125,343c18d59779b97aa1f03e0e160575dd,market for rolling mill,unit
+126,5dd704a06a828a85cba4784a08539e6b,market for sodium tripolyphosphate,kilogram
+127,d153f3c5551a2dc9f241afba5c10baab,"market for electricity, medium voltage",kilowatt hour
+128,2cb630053c2fe24eaa403ac583c225c0,market for aluminium casting facility,unit
+129,466bf4344a5a3c72e47ecb0aa43b26a2,market for sludge from pulp and paper production,kilogram
+130,7bb05332bb1f04244aa1ca80c6fc307a,market for 1-pentanol,kilogram
+131,129f413137224cbff5a33eedf24f99f8,market for wastewater from concrete production,cubic meter
+132,4dc7424b0e070c5b03cd850f4e3f353b,"market for electricity, medium voltage",kilowatt hour
+133,ac6a93b44b645a4d623be0187b008515,"market for carbon dioxide, liquid",kilogram
+134,4ee50c9f6841d882cac7e39c6acb2187,"market group for heat, central or small-scale, other than natural gas",megajoule
+135,1dd34b133191c752093d24011102b0d5,market for waste polyurethane,kilogram
+136,84703a1182e608ef89e1f286c436815c,market for dimethyl sulfate,kilogram
+137,b78a4c57e0cf3ced66278547a88073b0,market for waste concrete,kilogram
+138,c6d5b7ed36ef2c2d3924736a8be3af45,"market for polyethylene, high density, granulate",kilogram
+139,598d6a8c6850bb4e35d15373fa8fe54d,"market for propylene oxide, liquid",kilogram
+140,e48eb582584f19e96b57b3c41d1bae2b,"market for electricity, medium voltage",kilowatt hour
+141,e4f7fdf7f44be419bb26359d38139122,"market for steam, in chemical industry",kilogram
+142,28d84e33fab274f1fd9b046f7e166a7d,market for sodium methoxide,kilogram
+143,c5199723e7104a11950d8881aa917908,"market for zinc coat, pieces",square meter
+144,d490921b595b2023e77a9b47e4504151,market for phenol,kilogram
+145,0c24b7cb44f1de88b9d577524b332022,"market for borax, anhydrous, powder",kilogram
+146,3eb08a329bbd273fc85876abc6d197a3,"market for process-specific burdens, hazardous waste incineration plant",kilogram
+147,c30b1dd08753e7744e2ff0e8425901d0,market for wastewater from glass production,cubic meter
+148,85a1e5fa1036447771eb6238db8df779,market for residual material landfill,unit
+149,0b13cadf836bc2aa5d48c6ec872066e5,"market for electricity, high voltage",kilowatt hour
+150,90481327644490869c751f49eb756343,"market for wood ash mixture, pure",kilogram
+151,8747c4e23134acd1a6d977adf0a013b7,market for tap water,kilogram
+152,2406835bca0fe5c01c7d6e61e4de409a,market for ash from paper production sludge,kilogram
+153,ea9a2f131035a67f575545223cb3e1c0,"market for natural gas, high pressure",cubic meter
+154,d24ca3666555a0ffebc18ccc753052bb,"market for electricity, medium voltage",kilowatt hour
+155,291ecbecaf405eb3caa123876dfdcdc6,market for toluene diisocyanate,kilogram
+156,795ccd5ddfedbbba042ce8965b33aa15,market for solder factory,unit
+157,3200dcb1e1249ee6c024f96039b7ea0e,"market for transport, freight, lorry, unspecified",ton kilometer
+158,e8eef1856085c8663451a6e3ba0a48bf,"market for electricity, medium voltage, aluminium industry",kilowatt hour
+159,bdff1866c3e10ed0c7d6165d3ec3cf52,"market for printing ink, offset, without solvent, in 47.5% solution state",kilogram
+160,b5057a961be79384fdbb6485a8ec7ea0,market for monochlorobenzene,kilogram
+161,59fb21cf8d94f9c5df5348040633fdf3,"market for electricity, medium voltage",kilowatt hour
+162,e079bc1a542536f8154d5eb43dd64d36,market for scrap copper,kilogram
+163,04c0b1b7d1ad8bffaec0824dad10684f,"market for cement, Portland",kilogram
+164,6d703d1d64c5798824174f687c8911d6,"market for quicklime, milled, loose",kilogram
+165,a48c542318dc815e3c0029cfdb8e84ef,market for ethylene oxide,kilogram
+166,b754422beafe131baf7e45504ce36f9e,"market for electricity, medium voltage",kilowatt hour
+167,1f47a4d792fdeda7fc0d46c6314f9493,"market for alkyd paint, white, without solvent, in 60% solution state",kilogram
+168,d29f774396ae7b4f8f608bc3e6dc0941,"market for refractory, basic, packed",kilogram
+169,2524ca1417264d941a21457a52c33c86,market for sodium tetrahydridoborate,kilogram
+170,ff6738898b69dd03748beaed4a39dcd5,market for benzyl chloride,kilogram
+171,1b356f5cbcec2645831d4e703c77006b,market for hydrogen fluoride,kilogram
+172,3eeb929c4385e7e3211d68d3bb861c2d,market for waste paperboard,kilogram
+173,15695c2e92eb9f34be72b45fe3a926d7,"market for deinking emulsion, in paper production",kilogram
+174,b743e5adf5e24d4cf74331e8f22a9fd9,"market for electricity, medium voltage",kilowatt hour
+175,46e5abacfa92d8b4f20b58971ff72bad,market for printed wiring board mounting facility,unit
+176,692125a71591ae93f72628a415fc1116,"market for manure, liquid, swine",kilogram
+177,213ff12a44306278f2a8c700f948108e,"market for acrylic dispersion, without water, in 65% solution state",kilogram
+178,9fcb0bbadae579ed9d8fe4465f450769,market for hard coal briquettes factory,unit
+179,d3e4be4bdcc407943263ebe7717028d6,market for filter dust from Al electrolysis,kilogram
+180,2b801a5a604d74125cd6a4d0a6819c02,"market for electricity, low voltage",kilowatt hour
+181,aec924b089a087eea85d8a7ec70454fc,"market group for electricity, low voltage",kilowatt hour
+182,fdf88538614dffcc9ed8011b059f4421,market for nitrous oxide,kilogram
+183,002ebeb1ca3506ef21cf04a01446e8e0,market for zinc,kilogram
+184,cb760e1b41379166895e527359765ac4,"market for solid manure loading and spreading, by hydraulic loader and spreader",kilogram
+185,b7aa3e54075175119a27ad35ad59ac0d,market for cyanuric chloride,kilogram
+186,0b5d8c10eb01a0331d8c01c5834592c1,"market for paper mill, non-integrated",unit
+187,0e2f3633d5f238497c3c47f096c0fcee,market for polyol,kilogram
+188,8b22c5e40999ff9bde17d432ab2c1de1,market for polymer foaming,kilogram
+189,a067e70c6e57c93118e713a1e0f4b91a,"market for wastewater, average",cubic meter
+190,2607ec42bfedec2df35733f7d770b8a1,"market for chlorine, gaseous",kilogram
+191,82884820c1f38c7e87f7bbaecb46a4ae,"market for quicklime, milled, packed",kilogram
+192,b525361470b501ce153428a5cf415bf0,"market for capacitor, tantalum-, for through-hole mounting",kilogram
+193,9fbd741ee947d03d13520597968672af,market for coating powder,kilogram
+194,f63f241b3364d9602dbd63e90ab4c6df,"market for liquid manure spreading, by vacuum tanker",cubic meter
+195,ba4746d8988c05a6bd2a32e9bf24b48d,"market for concrete, normal",cubic meter
+196,3e454d1de00bb07c4a933e9460ed8c2e,market for butyrolactone,kilogram
+197,82855049a6b3730f9c8f52017f945867,"market for limestone, crushed, for mill",kilogram
+198,d4d6b364e3cfffd879b4d1da6f6b0c06,"market for particle board, for outdoor use",cubic meter
+199,f5fce40af08ede7bd96cc1f45f01dd55,"market for soda ash, dense",kilogram
+200,2c7a5d1d203ae771c37637361df5a5ab,market for nylon 6-6,kilogram
+201,39a8cebfd035d9b6050bc33f67231034,"treatment of waste cooking oil, purified, esterification",kilogram
+202,29a788950ad2d036c290069a5a67beca,market for blister-copper conversion facility,unit
+203,49dc4e27c9ed7738a098359b7fc581fa,"market for building, hall, steel construction",square meter
+204,f5055093d28e8e2569c98abb21cd7dad,market for liquefied petroleum gas,kilogram
+205,ea05a91c00317ae852ab0c3bfa6693c3,"market for energy and auxilliary inputs, metal working factory",kilogram
+206,ec3ba733bb0f3676263ec6b3040674a6,market for soap,kilogram
+207,bd20646b379b62c40cc0105566d8381e,"market for soybean, organic",kilogram
+208,4d1307ef14def19c2bc287a4ec602391,"market for chlorine, liquid",kilogram
+209,313c1aebb6276d5b06eb90a8832d9f5c,market for flat glass factory,unit
+210,2f82833973570115ca4d6348dbd92f6e,"market for wooden board factory, organic bonded boards",unit
+211,88fa17cf5c99fce9dda81683436252bf,"market for packing, clay product",kilogram
+212,bdc819a267c24b4596c22af83a23ce0d,"market for recultivation, ilmenite mine",square meter
+213,debce1e4aae549b2f57117a9bf98b767,"market for electricity, medium voltage",kilowatt hour
+214,ba2abd9b6d43ca4aafe66bbc57a03b80,"market for sugar, from sugarcane",kilogram
+215,5146116509f19660237ee3af80f4a3ea,"market for heat and power co-generation unit construction, 6400kW thermal, components for electricity only",unit
+216,69f70a726a37a26582f9ad9057c4d06e,"market for waste polyethylene, for recycling, sorted",kilogram
+217,a0386040e75f42a0e7c22918cb5f7b35,"market for flat glass, uncoated",kilogram
+218,d0f166bfbe1fb1aa1a967953eab25834,"market for sugar, from sugar beet",kilogram
+219,16a0cc2b960517666d6b9540fb3f1f5e,market for bilge oil,kilogram
+220,379388913fee422a915764b6a021fd91,"market group for electricity, medium voltage",kilowatt hour
+221,6d3bfa777b6ac82fa9981ad1c01c8c9e,market for waste emulsion paint,kilogram
+222,dd8c5f7ab3efa73b4d5f2cb6fd7bf719,market for perlite,kilogram
+223,c05ea0027092b9ee73f5ee4e5fdf008d,"market for anodising, aluminium sheet",square meter
+224,edbaea89ab7aa7737a7cb6690ba74efe,"market for natural gas, high pressure",cubic meter
+225,bc098acf2ab9199a4e866cb6fcbec850,market for waste reinforced concrete,kilogram
+226,344113f48b5330ff0263131a98526ea0,market for electronic component factory,unit
+227,4400296f42aa93b2281409664d29c29b,market for waste concrete,kilogram
+228,702a88889608b24d67459174547ec958,market for irrigation,cubic meter
+229,af11d494d83d649af084515dacb076b2,"market for wood chips, wet, measured as dry mass",kilogram
+230,f251fe25f914044c5d0f447679eacf4a,market for styrene-acrylonitrile copolymer,kilogram
+231,13cd130a5d89ef77b329342c60afa8b9,market for dimethylamine,kilogram
+232,312a1abcbe3e1d3ecb4b3c698b92b7ce,"market for recultivation, limestone mine",square meter
+233,0f849d9fbaff07c9619cff16b05774dd,"market for gravel, round",kilogram
+234,854d4bed4a9dd7836c71c29e9051d6b4,market for charcoal,kilogram
+235,bb2f1e6c1b655c59a945c637c6f78d17,market for acrylonitrile-butadiene-styrene copolymer,kilogram
+236,70a79e8d3f7070193d50cedd749fd91a,market for ethylene glycol,kilogram
+237,a53a695ed2a35257ce5da48d77d5e654,"market group for electricity, high voltage",kilowatt hour
+238,a62abdbe38a6e96f88abda734ab7d2d5,"market group for electricity, high voltage",kilowatt hour
+239,4ca53fb9485caa50b90f890a12374511,market for waste polyvinylchloride,kilogram
+240,a1e7e47b17337c676ecd01ef0d62a069,market for inert waste,kilogram
+241,174e5079a7fb33b85a365b37a8579bba,market for irrigation,cubic meter
+242,3dc2f06a598fb970688cc8daec62a6d2,"market for heat, from steam, in chemical industry",megajoule
+243,efff8d07be8e82f77d71406aaed5790e,market for formaldehyde,kilogram
+244,ba4f24b823d8fcbc7293bf29babd18ad,market for scrap steel,kilogram
+245,7f10f6c5e34e01e73dd3a509adab3953,"market for wood chips, wet, measured as dry mass",kilogram
+246,52e48f1fc2eeb639471440cc9c059e72,"market for heat, central or small-scale, other than natural gas",megajoule
+247,4d0177e8503bbe6dfb322081668552b5,"market for ammonia, liquid",kilogram
+248,d75d7fcdb6c7568ebc1100d8469ff3b2,"market for molasses, from sugar beet",kilogram
+249,7735b1293a8375a41a44431bd9db3f73,market for spent solvent mixture,kilogram
+250,309506258311a0a819d04107b6a5bb27,"market for sodium sulfate, anhydrite",kilogram
+251,1506beaeeaf08bf271709ddfa1320e80,market for refrigerant R134a,kilogram
+252,c4989ea20f06040453f9d3d59821f19a,"market for resistor, metal film type, through-hole mounting",kilogram
+253,6e1d8b37a585e41c9803563a3d321896,"market for acetone, liquid",kilogram
+254,97ae7950ed34c2401049776a3557b49e,"market for electricity, medium voltage",kilowatt hour
+255,ee2eb2ace69d02cf8be1f41f7667b348,market for molybdenum,kilogram
+256,0f10b7c564e830df89f7a2343cc00ec6,"market for hydrochloric acid, without water, in 30% solution state",kilogram
+257,da75730573ec8b1b75a02f3f01b09269,market for maleic anhydride,kilogram
+258,9520086e966234acd33639094b3ab757,"market for carbon dioxide, liquid",kilogram
+259,6e30abb84525fa499be6aa221bd7f57f,"market for electricity, medium voltage",kilowatt hour
+260,a53a2167ffe9c44c4fa97c86be58e753,"market for electricity, medium voltage",kilowatt hour
+261,45a241df987c856fc57d9211418bdb96,"market for diode, glass-, for surface-mounting",kilogram
+262,e034e3702b3eab77ec1d6bc41a9b2b6e,"market for impact extrusion of aluminium, deformation stroke",kilogram
+263,8a35f728285a025c6ed3153153015e03,"market for toluene, liquid",kilogram
+264,57be921c187a002b9a4956a6b0692b2f,"market for electrode, negative, Ni",kilogram
+265,d526bb3cd54b6a4100208f40cc5ee59c,"market for cement, Portland",kilogram
+266,4956343d45f1e4da6d6c635bd17a7f3f,market for waste x-ray film,kilogram
+267,6f5091ffb64247e80fccdfb351fd0e9f,"market group for electricity, medium voltage",kilowatt hour
+268,06564f5d5c4d179c3e3aa6fc74e436cd,market for wastewater from vegetable oil refinery,cubic meter
+269,ecc112c8ea11590d8f73849d08094b7b,market for concrete mixing factory,unit
+270,0312ec78256701975ed035c5febcf05c,market for hydrogen cyanide,kilogram
+271,12ea2431c99adbd826b000654e61008d,"market for printed wiring board, surface mounted, unspecified, Pb containing",kilogram
+272,0e38468bdff3c8dbfd8bf187bf770d0e,"market for electricity, medium voltage",kilowatt hour
+273,2f20c2a049ba5441e42ccd527027715d,"market for argon, liquid",kilogram
+274,355d7e99faa8e12d2f677e73e2423eae,"market for electricity, medium voltage",kilowatt hour
+275,9264545c58a551677d74fbba7dd3b038,"market for heat and power co-generation unit construction, 6400kW thermal, building",unit
+276,c719f555c112a04edc1c471cb94dbdbe,market for waste glass,kilogram
+277,ef905bff55a0d5c1fbb00eef88eb67b9,"market for quicklime, in pieces, loose",kilogram
+278,ec1216b8c34d1f9ff4e72afbfa17d702,market for 1-propanol,kilogram
+279,79e9b7bd109ae0171c019c38957d0214,market for wheat grain,kilogram
+280,6d656e138e0bda92b92375bf00aa749f,"market for nitrogen fertiliser, as N",kilogram
+281,8a8ceeffd1737774f88a158c58329c39,"market for building, multi-storey",cubic meter
+282,3188d23f89079fe1ac63e4e280bbca35,"market for silicon, metallurgical grade",kilogram
+283,50d59f53fa95c763cb6dbb4643ab2fdc,"market for concrete, sole plate and foundation",cubic meter
+284,90d3a1f8dcf3f235671beff6914fc0e5,market for wastewater from potato starch production,cubic meter
+285,096c4b2f40ab65e044d66b94da6bfbc1,market for maize starch,kilogram
+286,9266b0860c23119094314b2ce1c810db,market for adipic acid,kilogram
+287,797f39395ebf063cc7aa1bec6a5da92e,"market for electricity, medium voltage",kilowatt hour
+288,70830f0160ef3c5ec06fa933ca39626f,market for heptane,kilogram
+289,891018bdf75d4070b73656fb071d59ef,market for waste glass,kilogram
+290,5bffeb5912b3ffe3275880f6a010b945,"market for wastewater, from residence",cubic meter
+291,c38aa059b7d23ec512f2f0f3f697c37f,"market for wire drawing, copper",kilogram
+292,58d78128cba68854116362464b38a8f1,market for spoil from hard coal mining,kilogram
+293,60cc17f6bd6b19af3080715b2c8c55ef,"market for electricity, medium voltage",kilowatt hour
+294,67f1db73e3e72076a2191fe85db15d14,market for fly ash and scrubber sludge,kilogram
+295,e44080f6c21efc8d2b5d3f432512c76d,market for zinc concentrate,kilogram
+296,6bc2a70f65dd14e3b13e82201c01829b,"market for coconut oil, crude",kilogram
+297,ec6f03e8f121139fb262f7c82912237c,market for sand,kilogram
+298,5838561e1541ec3b4fca26daf3a7981c,market for ash from paper production sludge,kilogram
+299,4207a3fd0d07ed0f243913f1eb0b17c7,"market for cement, Portland",kilogram
+300,35fbac7092d1116e276d050da24c64e3,"market for electricity, medium voltage",kilowatt hour
+301,fb999f9d204d56fff815eb787520ffdd,market for activated bentonite,kilogram
+302,7c42ac8bf066808b853f9a90563453ae,"market for dust, unalloyed electric arc furnace steel",kilogram
+303,1ac3e59814ba3421240b0a701b34afd6,"market for electricity, medium voltage",kilowatt hour
+304,880f21ffa12b9851ed661d18deab0f8e,"waste paper, unsorted, Recycled Content cut-off",kilogram
+305,a8f0db7d650f81f2f1e0e7e935bc05e0,"market for boric acid, anhydrous, powder",kilogram
+306,fab73489702637b9c40b4d35fd61e519,market for waste polyvinylchloride,kilogram
+307,7d96605e8ad1448f88d55dcaa4278572,"market for heat, central or small-scale, other than natural gas",megajoule
+308,3717e699a0ecba1cd853037b8ba6c0c1,"market for natural gas, high pressure",cubic meter
+309,69b912f527f88517a8d43feb15f439a2,market for waste paint on metal,kilogram
+310,254fb22d2cb90b8442a349f99ba7b5c3,market for strontium carbonate,kilogram
+311,813039d3363e39475475b51a01e72730,market for glass tube factory,unit
+312,5352c21db406b2d4162d6b964a967167,"market for hot rolling, steel",kilogram
+313,f251505cc50697e48bd332a33b94120a,"market group for electricity, medium voltage",kilowatt hour
+314,427395335def07e47f30b1e9ec48c3c0,market for acrylonitrile,kilogram
+315,01ce889956d35771418dd8f08015c69b,market for hard coal,kilogram
+316,7cfb7e65ca49a1aa7cf8d80f8b3e19d5,"market for polyethylene terephthalate, granulate, amorphous",kilogram
+317,c1a99630272a230020c35f7bb22a5b49,"market for polycarboxylates, 40% active substance",kilogram
+318,5b26700e63a6bfa75af2ebbb2f16f9d3,"market for electricity, medium voltage",kilowatt hour
+319,fb5aaef027f2870f68948dbbb363efef,market for lead,kilogram
+320,02e332d3db91702195b8f076b367bee8,"market for electricity, medium voltage",kilowatt hour
+321,18d8b8e2112d031cfe8efe702bba6e0d,"market group for electricity, medium voltage",kilowatt hour
+322,d99c74cf656b4b2572648bb8835690b8,market for electric arc furnace converter,unit
+323,b21250df3bb1dd40643b058089240295,"market group for electricity, medium voltage",kilowatt hour
+324,5ba869bc75f3637aa42ab50221d68a1d,market for scrap copper,kilogram
+325,ef0b4449ba624237510a2f4fbecdb846,market for fatty acid,kilogram
+326,37b84e38b9a81c502c747b2269d0f553,"market for adhesive, for metal",kilogram
+327,8eb571534bc1b42768adeeaf2c5531b9,"market for petrol, unleaded",kilogram
+328,b487c59283ee4acb418f463687d2d5c0,market for nitrobenzene,kilogram
+329,ea12433541a607ce5f8fd88c19ed1abf,"market for electricity, medium voltage",kilowatt hour
+330,f1167e6e5407102a88be72251308601e,market for planting tree,unit
+331,16a12a476d4fa5ea8e9d2aa5de31b2ee,market for methylamine,kilogram
+332,285a2c7b1dc4303135405c7445a685c6,market for polycarbonate,kilogram
+333,9eb88611486e687e6936d5d53ca08f21,"market for electricity, medium voltage",kilowatt hour
+334,31609dff1feecf6547902506b3d9e527,"market for energy and auxilliary inputs, metal working machine",kilogram
+335,bdaf73b4423cec50f907e07cd2ed56e9,"market for glass fibre reinforced plastic, polyester resin, hand lay-up",kilogram
+336,e8b703ce471c777f85e791ed87add66e,market for o-dichlorobenzene,kilogram
+337,5093117becc60c17aa11cf03dbc4504b,"market for hazardous waste, for incineration",kilogram
+338,0c338ec94860ac2ccaded05dcef4d1b2,"market for electricity, medium voltage",kilowatt hour
+339,f06ff52f4f9a99de0d71534e50eb40cd,"market for electricity, high voltage",kilowatt hour
+340,0f5d8d496d20c6872247965f4435daad,market for oat grain,kilogram
+341,f62bd9d4ee88b2bb7666b9692ae5b74b,"market for application of plant protection product, by field sprayer",hectare
+342,977050c5e7c66159f8cd85600d32ab4c,market for conveyor belt,meter
+343,fbfb0a8af6ddd443d2fb99b8966cf90d,market for hard coal,kilogram
+344,62e1ce20b2e357a7589fa83c3bf803a7,"market for cement, unspecified",kilogram
+345,d32e1ee9ffc93e2d73d8a892660ecfc8,market for hard coal ash,kilogram
+346,17645371ca69c3359944e24fda0453d1,"market for water, ultrapure",kilogram
+347,d3938b796c59ba5ebe25d59b2c3872fa,market for light fuel oil,kilogram
+348,1352ab56a2f7ba69bade2fef3791abcd,"market for electricity, medium voltage",kilowatt hour
+349,ca96cdbdd2c2886ddf39211ac8c7f845,"market for potassium sulfate, as K2O",kilogram
+350,9c266f7fe439da8f4646151434235457,"market for electric connector, wire clamp",kilogram
+351,52e2129d2954b5b387f8a2bb0700bc9d,"market for electricity, medium voltage",kilowatt hour
+352,f55413e999f43636c030594232a1ced1,"vinasse, from fermentation of sugar beet molasses, Recycled Content cut-off",kilogram
+353,669b268fc988b1d18351b41be462354d,market for linerboard,kilogram
+354,d4640b5c48fb136c8688c1e3739dc93d,"market for chemical, organic",kilogram
+355,7093f46aee5e7f1eafb9700530fb7437,"market for diesel, low-sulfur",kilogram
+356,39f553a9a30d20f407931e9d9c2e9d46,market for wastewater from maize starch production,cubic meter
+357,b1a148669e2b44740bd06bd6bbcf6b50,market for isopropanol,kilogram
+358,37f034054cc55e616f8d2fcba2284c99,market for vegetable oil esterification facility,unit
+359,5d0d1fca5d5cbdce5750799627778af7,"market for chlorine, gaseous",kilogram
+360,fec58ff21004a94693c6ce466aefc832,"market for electricity, medium voltage",kilowatt hour
+361,94bda631dd4d3ce7cad3e139cdefd860,market for whey,kilogram
+362,b2803f443761eefce79b73617b960cb2,market for vegetable oil refinery,unit
+363,67ef55df095d896061825d4d42114c52,"market for cottonseed oil, refined",kilogram
+364,a937f1ef1155dff68ab809f359b08cac,"market for cable, network cable, category 5, without plugs",meter
+365,93822941b12fd28c1b0ccdf453d6969d,market for waste emulsion paint,kilogram
+366,89fc42c32affae51f9609d4bec1b4722,"market for quicklime, milled, loose",kilogram
+367,fe46fc6c59e5af6190150d896ebcf815,market for solid unbleached board,kilogram
+368,58d09ad561d2e7a453765eb9c6f6976e,"market for electricity, medium voltage",kilowatt hour
+369,e71632f9a8b384da8d8dd7aa0a578961,market for spent Formox catalyst base from formaldehyde production,kilogram
+370,bf70714ddde4563bbe468de543150c12,market for solid bleached board,kilogram
+371,ad0000edc1151deaa19ff1d1ff20d2e4,market for stucco,kilogram
+372,ed4dac89c36acd7407661518d818f094,market for municipal solid waste,kilogram
+373,030a9b885ca8508d717026a73f539de3,market for lime,kilogram
+374,9490dd3a1a2ce2a32b4afabb9a690b11,"market for electricity, medium voltage",kilowatt hour
+375,caf64849c02f8599de1286dd71d0ffc4,market for hard coal,kilogram
+376,2031b08dadfdc43e0f307fd95dd621e2,"market for electricity, medium voltage, aluminium industry",kilowatt hour
+377,b295e0aa095aaa4a1718096eb44104de,market for methyl acetate,kilogram
+378,4a5863ef5013e9c47b5289145522afe6,"market for waste plastic, mixture",kilogram
+379,d82156c2de5c3a07fc6d87490112ba2f,"market for gypsum, mineral",kilogram
+380,f1bf681f291c9db9a14b7513c095ad2c,"market for transport, freight, sea, transoceanic ship",ton kilometer
+381,db838f54f40b2ef16348a685b98ceddc,"market for electricity, medium voltage",kilowatt hour
+382,38d7e54a03b923b3844a190612921887,"market for sawnwood, beam, softwood, dried (u=10%), planed",cubic meter
+383,205d8c93fd695eca8f07d7f05201c323,"market for waste plastic, industrial electronics",kilogram
+384,84b1012094b91b42aa8221047cf1d8f7,"market for slab and siding, softwood, wet, measured as dry mass",kilogram
+385,dcd297bc5165257f6c313680727a2444,market for nitrous dioxide,kilogram
+386,e83142367a7cdbe75611f543c4f68960,"market for electricity, medium voltage",kilowatt hour
+387,a2105bd7d100a8d7742c87c26161c3ce,market for potassium permanganate,kilogram
+388,4b9afec4140871ca116cb2dc363c7cb5,market for polyacrylamide,kilogram
+389,d623d4553968985575bdf953b96519bc,market for polyphenylene sulfide,kilogram
+390,6bfa255e6c2d71bf0405a5f1c2561f44,"market for urea, as N",kilogram
+391,02cdd2df65932dce703ded532a32b2b7,"market for nitrogen, liquid",kilogram
+392,dd6d2a4b0531083b2aec3f8d3335a437,"market for steel, chromium steel 18/8, hot rolled",kilogram
+393,8be8c7eadbad4a1e4261bbee1d388cec,market for gold,kilogram
+394,e3d285b3d06ee2ca7f2cbdec998cde22,"market group for electricity, medium voltage",kilowatt hour
+395,64dd86ca92b77ef8f03eb2170879c780,"market for acrylic binder, without water, in 34% solution state",kilogram
+396,ac537cb970e710832850d4b1a5a84323,"market for non-sulfidic overburden, off-site",kilogram
+397,8bff72eb6ecd7de558ffbf4ed2bcd3a7,"market for electricity, medium voltage",kilowatt hour
+398,c214076cd7f42ea7f47398473f4c14b9,"market for wastewater, unpolluted",cubic meter
+399,88e741ba6667879c9943632e7b0017aa,market for ammonium thiocyanate,kilogram
+400,96175e086302e08e38dfe759947268f8,"market for heat, district or industrial, natural gas",megajoule
+401,6a10d8aa915e12fa3626a51f8e163196,market for carbon disulfide,kilogram
+402,eab43ddf1f54a559f83b6b2edaa7940a,"market for dust collector, electrostatic precipitator, for industrial use",unit
+403,acbef5ccadeae3db719754fddfc91b9d,"market for electricity, medium voltage, aluminium industry",kilowatt hour
+404,822bedf325fed918ecd9a7c83490e7cf,"market for natural gas, high pressure",cubic meter
+405,cf96d53793771418f3a8fa1fcc3e4062,market for pulverised lignite,megajoule
+406,08f694439866013a72b4bb25ab5d94d4,"market for waste bulk iron, excluding reinforcement",kilogram
+407,15b464939b82d938c6cf6566ca4a044a,market for scrap steel,kilogram
+408,ee75cc48e0195e857f577e44dd699bf9,market for phenoxy-compound,kilogram
+409,1be0e812732381b0e2644f9fe56c9253,market for aluminium oxide,kilogram
+410,a222dbf85924fc0aac1471bfb757efd0,market for ethyl acetate,kilogram
+411,bb3477bde0c4f3663411a73b144f9b7a,"market for aluminium, cast alloy",kilogram
+412,eebbe9ff3533a51b0d13b1a843576112,"market for electricity, medium voltage",kilowatt hour
+413,c4b59d56aa3ee83c76e6b5ff504920d1,"market for electricity, high voltage",kilowatt hour
+414,ce614e1924f5224da41a6cc7539608f2,market for fly ash and scrubber sludge,kilogram
+415,c7dc74449ffe347834f24f866de997fe,"market group for heat, district or industrial, natural gas",megajoule
+416,32f61b5d85c9ec54dff497f07e317600,market for tin,kilogram
+417,edfe8b63c4c9bf4616e2be034b7c702f,"market for electricity, medium voltage",kilowatt hour
+418,c28401d157a3147e1486dfe8f84ce0ea,"market for wastewater, average",cubic meter
+419,17bf2b1f7012e9876d1853ce99e26e97,market for heavy fuel oil,kilogram
+420,2c875fc3121a32096e63af628ef3ac49,market for triethanolamine,kilogram
+421,e232c718148a0585de8585ed7dfdaf1d,"market for electricity, high voltage",kilowatt hour
+422,01b54508bf076b1a3ce4dafec548eea8,"market for transistor, surface-mounted",kilogram
+423,fd1c6f1ddec70895e242a54ef882b5fa,market for sludge from pulp and paper production,kilogram
+424,b9ba2d484c120f3e5da4baeebaa990c2,"market for electricity, medium voltage, aluminium industry",kilowatt hour
+425,4b786aaa59989df3b956051325a41a31,market for calcium chloride,kilogram
+426,fdf6cea974ff4fa790cca059353d203f,"market for phosphoric acid, industrial grade, without water, in 85% solution state",kilogram
+427,0d6c5fb48cd310674e93b4aa9bc4849e,market for ammonium carbonate,kilogram
+428,c642c6773d93c9775a6cb5ab9d10684a,market for biowaste,kilogram
+429,14c6a4d9a3376a3435841daacdf65449,"market for waste wood, untreated",kilogram
+430,2358bf23f62ee02b19b6445c077a654f,"market for electricity, medium voltage",kilowatt hour
+431,da754180036e606dd62c1bdb085bcf1f,market for anthraquinone,kilogram
+432,820aeae915391f4bad76e59d127a6739,market for xylene,kilogram
+433,502d801475028b62a369101cf3945e7e,"market for tallow, unrefined",kilogram
+434,95ce71c73dc341e336dcced5644a09a1,"market for protein feed, 100% crude",kilogram
+435,a196b0c29afa065ed659bac257a5ec54,"market for mine infrastructure, iron",unit
+436,d508cbf76f2c6ecd71a1d6c00bf72b2b,market for clay,kilogram
+437,431a88ae9238794d23c6938e38a754f7,"market group for electricity, low voltage",kilowatt hour
+438,feb20936a5aa0baa4f5771436dd65948,market for municipal solid waste,kilogram
+439,8d6cdea54d42054e35efb4b485557bf4,market for irrigation,cubic meter
+440,e145b3a3de4df6e56216da0941c67419,market for coke,megajoule
+441,de9ef7d7333115c758e33f74525d932b,market for monoethanolamine,kilogram
+442,2178d9fb53d2ffec1fd4482f200aef22,"market for water, deionised, from tap water, at user",kilogram
+443,53cc368706a5c6717b5f0921a2f1d91f,market for kaolin,kilogram
+444,27ee681b484fbbd33f109265251fb8d7,"heat production, natural gas, at boiler condensing modulating >100kW",megajoule
+445,6a7f05f0fadb415e3a0d92b4ca1ce381,"market for silicon, electronics grade",kilogram
+446,4cf3036c32dc31e7ca75aeda9f8ac9e9,market for ultraviolet lamp,unit
+447,75b835c813031007a4be0a644a87a6ae,"market group for electricity, high voltage",kilowatt hour
+448,c0d89173947daaa14da3a1e706a77a30,market for magnesium factory,unit
+449,04d83c7892991a382a81770e1c6adfaa,market for corrugated board box,kilogram
+450,d9dd05c9e1ba05e4d3077a8a59481301,market for sodium nitrite,kilogram
+451,e11be22b4afc5a2688a6fbc4d5f9b4a7,"market for oxygen, liquid",kilogram
+452,898590d255fac973fd795bc1c401daf6,"market for electricity, medium voltage",kilowatt hour
+453,440e4ef7985f196c708cd55bd641135c,"market for electricity, medium voltage",kilowatt hour
+454,977c2701afb697a43e3a1b1aa6d90a94,market for maize grain,kilogram
+455,6d784227f85ca4660c7d9b3831570044,"market group for electricity, high voltage",kilowatt hour
+456,fecf8ad7c745cdbc9c183a7a4fd0c040,"market for soybean oil, crude",kilogram
+457,c0623166341cfdedf84604b031176120,market for waste newspaper,kilogram
+458,6e643b7d9f46dc255b8c85d188c618e7,market for brass,kilogram
+459,ad44eed67d3e16d0e8f67dfd6dee9c7e,"market for electricity, high voltage",kilowatt hour
+460,5292e746fe46492e274ab47683465990,"market for electricity, medium voltage",kilowatt hour
+461,2660c7485f125d5172f12a01688ace28,"market for waste emulsion paint, separated",kilogram
+462,b59e3385667066b01fb72aed604b2b32,market for glycerine,kilogram
+463,4d3553e0ea356529fcabfe3b721e6d14,"market for glass fibre reinforced plastic, polyamide, injection moulded",kilogram
+464,582fa68b18f993449934689e1acbc27b,"market for transistor, wired, small size, through-hole mounting",kilogram
+465,59912248789a7ff2cc1598d31bc64aec,market for EUR-flat pallet,unit
+466,e33793009ac92c9b2786c8d27af1d061,"market for waste wood, untreated",kilogram
+467,dd2b45bf05bd5cefbfdef6585fbfe4f9,"market for electrode, positive, LaNi5",kilogram
+468,38e06a3be63f5453c1b0ddfe4e2fd572,"paper production, woodfree, coated, at integrated mill",kilogram
+469,4ed4847cb8e815a69cea62db59a0740f,"market group for electricity, high voltage",kilowatt hour
+470,8974840b1c929139d034d6e64de446fc,market for palladium,kilogram
+471,e8222b263644b596c8b5ff921691d12c,market for tetraethyl orthosilicate,kilogram
+472,1bc0f81984b994dfe616340b00464292,market for acetylene,kilogram
+473,93f39dbee91a2baba122b290a6e7241c,"market for waste concrete, not reinforced",kilogram
+474,3fbdd8f8e68c10641f5a63dc5a357f92,"market for sheet rolling, aluminium",kilogram
+475,13d5730679a3556f2652714c3267432b,"market for printed wiring board, surface mounted, unspecified, Pb free",kilogram
+476,b181c5fe94d887d96b91bfe0d068dea1,"market for waste textile, soiled",kilogram
+477,2bc09d05fe594fd5bd43952c30b1c6e3,"market for heat, district or industrial, other than natural gas",megajoule
+478,fd40b28626edef59561f3394155d3ea6,market for hazardous waste incineration facility,unit
+479,0f46111a85febb47633058d639dcc84f,market for titanium dioxide,kilogram
+480,cfe50e778d57079f76cde1e777c08ec8,market for metal working factory,unit
+481,2fc74dc8c3ff0f9f64a6d743d17a17fa,"heat production, at hard coal industrial furnace 1-10MW",megajoule
+482,e2a0f9a5c8e27df152aecf671ce27175,"market for electricity, medium voltage",kilowatt hour
+483,c93fbace4f8a933b943a783fe33464b7,market for coal slurry,kilogram
+484,10a99599dfc3a449f573b8a45cf09018,"market for section bar rolling, steel",kilogram
+485,541480dd97167c47d7ee14e6e219b764,market for formic acid,kilogram
+486,5d7b81539ec02c29e79cc3c05e7cf896,"market for polyvinylchloride, emulsion polymerised",kilogram
+487,1c5dbfd9949e095d89a08d347bb0562b,market for cumene,kilogram
+488,5b903d06fd6f0e0fb79377c395aae472,"market for coconut, dehusked",kilogram
+489,f59eb71ce814b136ab44587b2684265b,market for waste polyethylene,kilogram
+490,cd1c52a88fc5be045481caf177554f8c,"market for fleece, polyethylene",kilogram
+491,3d17d810ad085f931c8ae61fb9a90368,"market for electricity, medium voltage, aluminium industry",kilowatt hour
+492,3823c426fd861a0081c984fb847ea7a6,market for acetonitrile,kilogram
+493,f3712c2ad8f0ce0600840dcc402c0fb4,"market for sodium sulfate, anhydrite",kilogram
+494,83a92e254e615aaecd563fa768470936,market for sodium sulfide,kilogram
+495,3756a68a18bf6bf903b9c5bf3489929a,"market for ammonium sulfate, as N",kilogram
+496,1ba1ef4155811cfedfb5c80cdceae5f2,market for inert waste,kilogram
+497,5665f0a2b1b03ab22a2993178abb39e4,"market for electricity, medium voltage",kilowatt hour
+498,01a09e4b1ab9fce66eda1c6c47f05794,"market for transport, freight train",ton kilometer
+499,09bb2cc9ff96eb23d4f6523035e410fe,"market for waste wood, untreated",kilogram
+500,58c6d14b76d0147d4aa55e1a7d669fe8,market for lithium,kilogram
+501,c088aea59da4f1e655819f1ccf74f43d,"market for section bar extrusion, aluminium",kilogram
+502,ac015350c8d805cb0bf7b9ae83fe7aed,"market for waste plastic, mixture",kilogram
+503,4cf931db6daf3f62d3ca26693bb9ca3d,market for paraffin,kilogram
+504,8b47a608ad1a7c9e5f3848b12f3d960b,"market for acetic acid, without water, in 98% solution state",kilogram
+505,d26628e2c8b1af23fa51c3e1547862e3,market for waste paint,kilogram
+506,ef8a9e6d5321679ba655c9a95e649e9b,"market for diode, auxilliaries and energy use",kilogram
+507,4beedb8a26bed6c2ccf7ec2084b3535c,"market for printed wiring board, for through-hole mounting, Pb free surface",square meter
+508,8a898f034b8106adc3f42ea42aa8dd35,"market for electricity, medium voltage",kilowatt hour
+509,97a8be2bfbe1df3f5990d096b48852ec,market for cyclic N-compound,kilogram
+510,adc4ad8736f5289721022b96034f7020,"market for water, deionised, from tap water, at user",kilogram
+511,f72f488649125b3aa7282a71c6ba9533,market for carbon monoxide,kilogram
+512,f53dad1f4f1642d97dff9e852c8c4e32,"market for sodium silicate, without water, in 37% solution state",kilogram
+513,55415388d23dcc85578e2f707c9d4cb5,"market for used lorry, 16 metric ton",unit
+514,70fae64273e743b5949ae629699b1622,market for foaming agent,kilogram
+515,c2443d895dd7d675d8e0bcd0e34e4ce5,market for air separation facility,unit
+516,01dd8481b94dae3400649783dc106cd7,market for sodium pyrophosphate,kilogram
+517,db3e8cf345325d20af0302a634063217,market for scrap steel,kilogram
+518,482ebefbc1623c7738fcddf362771b6d,"market for sludge, pig iron production",kilogram
+519,7dbd76d5c91c3370ef6c8dd3a06d8196,market for blasting,kilogram
+520,ea320e5e4be344b8614e4c5552398d3e,"market for electricity, medium voltage",kilowatt hour
+521,aa07ab79f5ebc069a3d2c1e6cdaf92a8,market for core board,kilogram
+522,407ab6d419c6f95ab7428567b8e6c89b,"market for mine infrastructure, steatite",unit
+523,be0e3744265524659fbb08348ac82d43,market for phosphorous chloride,kilogram
+524,a6f999e78e1d1cc5674feb59b3a4b104,market for waste polyethylene/polypropylene product,kilogram
+525,9efa6db1b548459d076efecc9294c6c2,"market for waste rubber, unspecified",kilogram
+526,3843b56e14341adf4bdde7edb7ace64e,market for road vehicle factory,unit
+527,d5b9410125af1e955e8259327a15dd1d,"market for transport, passenger car",kilometer
+528,48cf86068b20660694841d7c7e89cef9,"market for electricity, low voltage",kilowatt hour
+529,2fe65d2abc746da422ec93f669912d94,"market group for electricity, low voltage",kilowatt hour
+530,168c30d7e99db9f0defa8ca30692dc67,"market for kraft paper, unbleached",kilogram
+531,2db6442f21a65841a69b94ef690f860a,"market for mine infrastructure, open cast, ilmenite from hard-rock ore",unit
+532,2114d0ab71505029c98b63d8b5679e43,"market group for electricity, low voltage",kilowatt hour
+533,3c1ca06553d4fb51aa28a13dcd5ada1e,"market for ferronickel, 25% Ni",kilogram
+534,c0fe92f83c3eb331750f7b7d146c2436,market for spent solvent mixture,kilogram
+535,34f9800d53ea6eeff8ac053eed3d908f,"market for electricity, medium voltage",kilowatt hour
+536,6d88c17d240bd383f1bdd4be99dc65eb,market for ethylene dichloride,kilogram
+537,5deb1131cf826b194516980b6ba72a07,"heat production, wood chips from post-consumer wood, at furnace 300kW",megajoule
+538,2c2097097682e0e585aec2cd13558f79,market for fluting medium,kilogram
+539,bab1cae2c76b580210e23a951720b295,market for acrylic acid,kilogram
+540,8c1055c34bfc73ed7be29f01ee9c446c,"market for textile, woven cotton",kilogram
+541,0cb343f26fa0a570d556aa7e407266d5,"market for electrolyte, KOH, LiOH additive",kilogram
+542,6be485351a6e0d42fccb1b503432acf5,market for irrigation,cubic meter
+543,428edbf1a2cf1fdf4f038de77d44ca9c,"poultry manure, fresh, Recycled Content cut-off",kilogram
+544,c4c0e95f83622e904acb5fea69c867d0,"market for sodium dithionite, anhydrous",kilogram
+545,8780214491c28147f7439f96a2b262fb,"market for EDTA, ethylenediaminetetraacetic acid",kilogram
+546,6f3a43be57999fbd22bd147e5402f70d,"market for electricity, medium voltage",kilowatt hour
+547,92e387e281a6aab351faf6cedbfce012,"market for cement, Portland",kilogram
+548,b761ad94564466ee015117f1ab815ffa,"market for hazardous waste, for underground deposit",kilogram
+549,3ca752c72c110348fa3debaa9b43f60a,"market for used internal combustion engine, passenger car",kilogram
+550,f6e3d9695fdc675765ac53179685ba53,"market group for electricity, low voltage",kilowatt hour
+551,81d76d492ff83475c65071c2622a6f70,"market for sodium silicate, spray powder, 80%",kilogram
+552,d26b33b800225508df632267fc6bc286,"market for heat, district or industrial, other than natural gas",megajoule
+553,3a91138141873e96d348476ec704519c,"market for electronics, for control units",kilogram
+554,f5d1c199f9b95cae4fe0bbc1afa067f0,"market for steel, unalloyed",kilogram
+555,f91efb8758ca203688a82efaada469d5,"market for potassium chloride, as K2O",kilogram
+556,78350e01244b7c603c57788369771f93,market for ethoxylated alcohol (AE7),kilogram
+557,3d121e2ae15a381ace290e09beba24a7,market for methanol,kilogram
+558,43a341f3ad04d3a542a910a2e4e4e372,market for ash from deinking sludge,kilogram
+559,1c1d7955ff9c7b8ebef30acaf1952c72,"market group for heat, district or industrial, other than natural gas",megajoule
+560,996bd7641f64347d8740abfe4e901a34,market for irrigation,cubic meter
+561,5bbeabb5cb51216ca42ee3fc9aed930f,market for gravel/sand quarry infrastructure,unit
+562,2e49217bf7bc0f3b0f47c8487342be40,market for propanal,kilogram
+563,f19e0fadcb5b20607b63798a44720d4a,"market for electricity, high voltage",kilowatt hour
+564,f508719cba29bd92eaa05d7e8423aa71,market for barite,kilogram
+565,1911e9cb58f58bce5098432db01451c7,"market for phosphorus, white, liquid",kilogram
+566,ab7e30c5113e3f22ae6883c3c9f59680,market for fly ash and scrubber sludge,kilogram
+567,1e8589891f321d6f16df1bb3fa3b51d7,"market group for electricity, medium voltage",kilowatt hour
+568,792464f1ce3979c56db26379b74692f8,"market for sodium chloride, powder",kilogram
+569,3781de39d137830e00d0d439e38e9d60,market for injection moulding,kilogram
+570,d5af894919a407728d20e32cb4adfe87,market for liquefied petroleum gas,kilogram
+571,919aba3512aa390f6870443f6538b882,"market for chemical factory, organics",unit
+572,44e32fc9c8c60cdd3c5cb190fcb95cf8,"market for hazardous waste, for incineration",kilogram
+573,d2bf2d3121d602a6297ab385181f8e86,"market for wood ash mixture, pure",kilogram
+574,9bf8604690f4fad29b9981bde701a56f,"market for packaging film, low density polyethylene",kilogram
+575,e448b59ed4ada0ccd2a42a10c22c5d4f,market for n-olefins,kilogram
+576,5cc3ee37a30d072c318545fcb0f84a22,market for phthalimide-compound,kilogram
+577,3e07a0ecaa5df0c4137089cbb9519b75,"market for natural gas, high pressure",cubic meter
+578,99811986712ae549ce44f47c61e7f4f4,"market for transport, passenger car, large size, petrol, EURO 3",kilometer
+579,49f2534ba2a5533decf33fdaeb76c75c,market for scrap lead acid battery,kilogram
+580,aced0c44d95d8e07bae9d80a2d340e50,"market for kraft paper, bleached",kilogram
+581,6000c67ed7fca09089fca08adc4517b0,"market for pulpwood, hardwood, measured as solid wood under bark",cubic meter
+582,bfe8536e01864be2d02956453c1b1a93,market for scrap aluminium,kilogram
+583,a49c9f237fe3e6f5c06c2a6b4f92af6e,"market for iron scrap, sorted, pressed",kilogram
+584,3088b3122ccc7a3b6d269fa4adf971cd,"market for electricity, high voltage",kilowatt hour
+585,793ee3d7e30fe324f90f91d727b16b56,"market for wax, lost-wax casting",kilogram
+586,494565a414fb7c6f4fa81fab8781bd04,market for glyphosate,kilogram
+587,13c3413a7ddca42350133727eac1b22d,"market for stone wool, packed",kilogram
+588,68b8acda5a864b24d87bde66c40604a1,market for sulfur,kilogram
+589,ae5a23ead70df2c4a46424fc57481dfe,"market for electricity, medium voltage",kilowatt hour
+590,a9b8dafd2ad87ceb795f6c0a06c2d676,"market group for electricity, low voltage",kilowatt hour
+591,846191634c111a7ef33c39320c2653bf,market for waste mineral oil,kilogram
+592,e8aeee03ef75b98c2014834586751db8,"market for calcium carbide, technical grade",kilogram
+593,95b19bfccb58deaade69ae4dbca88dec,"market for electricity, medium voltage",kilowatt hour
+594,85721e15c75cf08c128e194ec483ee5c,"market for water, deionised, from tap water, at user",kilogram
+595,60219c77cc151a7b3c2b8f630d803efd,"market for inert waste, for final disposal",kilogram
+596,160e001cf020e8bf91ce0f2f7ca539d7,market for ferrite,kilogram
+597,1686defd0730d35601f5c0148d57cc7f,"market for electricity, high voltage",kilowatt hour
+598,7c5db2c4e293239d5ffa19ea0c548232,market for hard coal,kilogram
+599,8d33543de8c4c3fe4b141a3de7c29078,market for hydrogen sulfide,kilogram
+600,57d53ea97808357eaf115300556e1732,"market for hazardous waste, for incineration",kilogram
+601,b4875cedbea4d728efe21c07d948fea3,market for used vegetable cooking oil,kilogram
+602,015e9aef83f1014882a2a0f9f96ac17e,market for waste polyethylene terephtalate,kilogram
+603,8d6425d6f85ce7abe890366b6c4749aa,market for waste paperboard,kilogram
+604,fd0530ba7e43e2ee88e5576fea718ebc,"market for manure, solid, cattle",kilogram
+605,7dbf4e3d01460ea6f5e99a5f984a6095,"market group for heat, central or small-scale, other than natural gas",megajoule
+606,ca6809e4762f1640f30ad728b268ccfb,market for titanium dioxide,kilogram
+607,e2e915d0ffc0d8d7b97f4981222de8af,market for light emitting diode,kilogram
+608,b88fe2ebe8d73a8783b1b111f12ee7d3,"market for epoxy resin, liquid",kilogram
+609,bc7c57b0c9050ff3c4791e41ffef5343,"market for butene, mixed",kilogram
+610,e2b6a19530d1f552ebeb042487d41100,"market for polystyrene, expandable",kilogram
+611,17f3a08f60e5bda6a459353007843a26,market for p-dichlorobenzene,kilogram
+612,dd66ca120c00004ae6d0c814cd905924,"market for integrated circuit, logic type",kilogram
+613,8e27dd75756852a2a48eeae214a2e3eb,"market for hydrogen peroxide, without water, in 50% solution state",kilogram
+614,219b0d6363fb42f0a8ad91850d6256d2,"market for electricity, medium voltage",kilowatt hour
+615,4647f336081a12454d82102bc94e2c6f,"market for ammonia, liquid",kilogram
+616,6da723efdb95958b0e1d05aa5cbd54aa,market group for tap water,kilogram
+617,246b932a689898ed14e021b74e807d28,"market for electricity, medium voltage",kilowatt hour
+618,e58410c4d048b1d7b74b315efb787381,"market for heat, district or industrial, other than natural gas",megajoule
+619,b86006cfcfc3459fbc17ba535e753387,market for synthetic rubber,kilogram
+620,2fbd8fd9788bb7fd3569ac87f92a9b1e,"market for aluminium, primary, ingot",kilogram
+621,a727deb09cddfbccbce19fda5f9e0c5c,"market for printed wiring board, through-hole mounted, unspecified, Pb free",kilogram
+622,fbc5d4f66ca63fc47832691826277d7a,"market for heat, district or industrial, natural gas",megajoule
+623,7e200ede2a8a396de063ac33d8e56518,"market for dust, alloyed electric arc furnace steel",kilogram
+624,24f6e893bf905f0a226a5f459e06f908,market for irrigation,cubic meter
+625,69afb378835b249d0c63924435731a4a,market for sulfur trioxide,kilogram
+626,a6efa42599de1ffb9e611a96e9150e7a,"market for electricity, medium voltage",kilowatt hour
+627,f68f602e6328d34e68aa61203aff24ba,"market for electricity, high voltage",kilowatt hour
+628,8bae8bac48e6f42f88bf74c08199b681,"market for phosphate fertiliser, as P2O5",kilogram
+629,9f3c78bd78071d962d36d4c0dfd2b284,market for trichloromethane,kilogram
+630,98582227139142194fe77c226bf483a2,"market for natural stone plate, grounded",kilogram
+631,19175fc5f4e8b0a4ae3240a84968d800,market for manganese concentrate,kilogram
+632,89b3e91d4e7513937f2db1abd477ceee,market for methylene diphenyl diisocyanate,kilogram
+633,ece532f8286133279aaee49ba12cbbfc,"market for iron scrap, unsorted",kilogram
+634,36a507490498ff58f985e11b59ed29bc,"iron scrap, unsorted, Recycled Content cut-off",kilogram
+635,780f3790e20ce346895375f0001ef436,"market for manure, liquid, cattle",kilogram
+636,20ed09d2f18c2abc103f812816bf32b2,"market for poultry manure, fresh",kilogram
+637,602fbafc565ed9ac17414cd141a367ed,market for sulfate pulp,kilogram
+638,6ca69ad08a4b9d24b23277c4f2b81bd9,market for zinc oxide,kilogram
+639,d82b7ab35da8161d9befed8bcd95b12e,"market for electricity, medium voltage",kilowatt hour
+640,d9c44e8f3a59a2317620617eae3551dc,"market for chemicals, inorganic",kilogram
+641,7c346bf07e706fe93fa6ce7af95a3e27,"market for alkyd paint, white, without water, in 60% solution state",kilogram
+642,10e79acffb99bb4a79716fd21bd053a8,market for acetaldehyde,kilogram
+643,4b077781b81276394fdcd78f50b5f46f,"market group for electricity, medium voltage",kilowatt hour
+644,2196ca8194e39343dbff9128bcfaf3e0,"market group for heat, central or small-scale, natural gas",megajoule
+645,0af852e1702f10190706800742bdf808,"market for extrusion, plastic film",kilogram
+646,a77b28e432bac07c627aeba6768837a5,market for waste paint on metal,kilogram
+647,d6f0a3a0933866c2f8d7eb83db02c9aa,market for copper,kilogram
+648,263e9a64647ee5b466f8901a5a0619d6,"market for electricity, medium voltage",kilowatt hour
+649,f73ebbe3fe8fd9ac4f9f5547726a5386,market for polystyrene foam slab,kilogram
+650,aca623540bec2a77abae8c6323c9d872,"market for printed wiring board, for through-hole mounting, Pb containing surface",square meter
+651,8a128c621f9c7baa4b1829d5eb5b2b64,"market for sheet rolling, steel",kilogram
+652,f98bdf9c29f83f05b638f0cca16cc7e5,"market for waste plastic, mixture",kilogram
+653,910cc74878bc4f012fc582c7e5dfdd9e,"market for electricity, high voltage",kilowatt hour
+654,69783b9defaf17be0dc1ec397bea2032,"market for concrete, normal",cubic meter
+655,2fbb4255ada48b855f42548660bb9ad6,market for epichlorohydrin,kilogram
+656,70b6d6f7b22c119e66293ab8b5cefaba,"market for pulpwood, softwood, measured as solid wood under bark",cubic meter
+657,85a2d95ec81e82de58fb8246967b8ec2,market for scrap copper,kilogram
+658,c92198b6f57f607e2786c983f2424dba,"market for electricity, medium voltage",kilowatt hour
+659,283a17404e97d4c5b42a72dde64423a1,market for electronics scrap,kilogram
+660,2ca7ba4eeb2dfcd05fa368f7160711de,market for aluminium hydroxide,kilogram
+661,5f6673e9336a12c7b3ea7725b071550c,"market for nitric acid, without water, in 50% solution state",kilogram
+662,b200765f874639c35233f6d1f1094b96,"market for electricity, medium voltage",kilowatt hour
+663,1f4e128cddd35a7f2616b08c866d7a69,market for waste polyethylene terephtalate,kilogram
+664,6d86583466d6fe8e69f0716c8a18f8c8,market for waste graphical paper,kilogram
+665,1f0c37b6ecbb3c971617a5dd311ac0eb,"market for metal working machine, unspecified",kilogram
+666,87473fdc44d396ec0fd7b7ce016bbe88,market for precious metal refinery,unit
+667,e5fb74581093181fe8793f0bdfb368f8,market for ceramic factory,unit
+668,46ab05aebcb6919c905a4d6b5f316ff5,market for used cable,kilogram
+669,90f59bf7b4854b0afb5976a6da7037fc,"market for acrylic varnish, without water, in 87.5% solution state",kilogram
+670,b49ed3b56374eb03cac00214c96b0678,"market for inert waste, for final disposal",kilogram
+671,dfff2323e2d5fd3e1f790ccb5f12bc1b,"market for transistor, wired, big size, through-hole mounting",kilogram
+672,49cb0de7aa40724712cf6769fd76349c,"market for electricity, medium voltage",kilowatt hour
+673,2c9349230c512a314cb8418f7b734fd4,"market for transport, freight train",ton kilometer
+674,18450821b529855f69e4ed2eeec669e7,"market for retention aid, for paper production",kilogram
+675,8a8bb1b7ab068eb39994c2afcb45c260,market for soybean meal,kilogram
+676,3820d2a05e4780f545aa51aa793a2f45,"market for phosgene, liquid",kilogram
+677,cfbc8a71f3cec9b8e593470d411cb18f,"market for pulpwood, softwood, measured as solid wood under bark",cubic meter
+678,643c67a39577a475e9abb0fafbda24e5,"market for sawnwood, board, softwood, dried (u=10%), planed",cubic meter
+679,5cf7306ef52cb7b56edb6c064c5bd9ab,"market group for electricity, medium voltage",kilowatt hour
+680,143058fc4f46f95f30ecbad2bc6c51c2,market for establishing orchard,unit
+681,f38b6077008821f17d45f9528ee2759c,"market for ammonium nitrate, as N",kilogram
+682,8be0c59633edf7f6fcb4888e335ea726,"market for lime, packed",kilogram
+683,45e4eabdd077c02a89e0f61a3c1ffc39,"market group for electricity, low voltage",kilowatt hour
+684,f1c697df64f478ccd71406e378ea8b61,market for irrigation,cubic meter
+685,99bff69a4270a64245f99a74ec8f58a4,"market for electricity, medium voltage",kilowatt hour
+686,6430bf94365b135bafda7853f118d737,market for nickel smelter slag,kilogram
+687,b1970830680a1c26b1313dbd72dbb7cb,"market group for electricity, low voltage",kilowatt hour
+688,8f5872583a8a6db77596172b941a127c,"paper production, woodfree, coated, at non-integrated mill",kilogram
+689,ae16aed8bcf9315c597650754baf0329,"market group for electricity, medium voltage",kilowatt hour
+690,5ebe5e874b8d7864534811bc46e0e0ce,"market for extrusion, plastic pipes",kilogram
+691,a5d06c611bde892f011c4cac58066ffb,market for silica sand,kilogram
+692,0f4bf6380cdf59b1177e5fbd7f058aa5,market for waste bitumen sheet,kilogram
+693,72b3fc81df1e033f7145a3ed589f3acd,"market for paper, woodfree, coated",kilogram
+694,62056b5a6266ca95280eba59e1ab007f,"market for electricity, medium voltage, aluminium industry",kilowatt hour
+695,3ebc056005a7dbe8e7993b30344368a9,"market for heat and power co-generation unit construction, 6400kW thermal, common components for heat+electricity",unit
+696,4fe816c92b00c50236a58b9571713573,"market for inductor, ring core choke type",kilogram
+697,db84948fd4d6f465fad663fc3c6a5f2d,market for wastewater from plywood production,cubic meter
+698,531fdc681b60140b874dcc80778dc587,"market for electricity, medium voltage",kilowatt hour
+699,d9c863ab6972340d3b28745e17b1a791,market for shed,square meter
+700,8627f03af4da1c660ca796348b9f1898,market for sugarcane,kilogram
+701,368e596c4a45cb014df88d1fa02d5d4f,"market for hydrogen, liquid",kilogram
+702,0f7ff8f5087eb874cbb0e1f560f1242e,market for lead smelter slag,kilogram
+703,80cb2a41b1f60f542debaa05ab5fa03a,"market for wood chips, dry, measured as dry mass",kilogram
+704,a9f449b65099fa4d346660ec67b41704,"market for electricity, low voltage",kilowatt hour
+705,cbdfd6f24f781c40bce7761a74c2997e,market for irrigation,cubic meter
+706,c56b160b85c8e02554c91b848ebf602c,"market for sawlog and veneer log, hardwood, measured as solid wood under bark",cubic meter
+707,ce1d893e504fa1c1ee84b20cc5f6a61a,market for cement factory,unit
+708,69b526b78c08e05d45829d22dfe54c46,market for pig iron,kilogram
+709,1d62776952015f943a89f436775067b4,"market for solvent, organic",kilogram
+710,13cba3d573fc1151b28826bc9d8b784b,"market group for heat, district or industrial, natural gas",megajoule
+711,5b95b2a7d73335cc3fff05c0c8a22133,market for malusil,kilogram
+712,cbe8eb5a848aa113efda02064e4a8c50,market for ventilation components factory,unit
+713,115c363512a9144d6003b36b1d585708,market for butadiene,kilogram
+714,970c48c1e23eea6578b3c4ee76293ba9,market for sulfuric acid,kilogram
+715,4e090e7d04c9773e3262ff302a2a2f2f,"market group for natural gas, high pressure",cubic meter
+716,43764105dcb93df903d781b775e71205,"market for lime, hydrated, packed",kilogram
+717,6dbb110a25a2ee8adf917b7778008e3d,market for urea formaldehyde resin,kilogram
+718,04a8eefed507d7782b5c699dfb8509a9,market for ethylene vinyl acetate copolymer,kilogram
+719,f0e7016823ae085c32eda81fe02088f5,"market for transport, freight train",ton kilometer
+720,e3e6881ad361c2b885665388a6d8bc0f,"market for diesel, burned in building machine",megajoule
+721,1b93811eb495190db70b2517b44b11b1,market for pitch,kilogram
+722,2c823e2f6eb701a646f0602ae4b452dd,"electricity production, natural gas, conventional power plant",kilowatt hour
+723,776c78059f355d226fea440c719109d4,"market for potato, Swiss integrated production",kilogram
+724,e91b09ad5622747f73c136f90f7e815d,"market for electricity, medium voltage",kilowatt hour
+725,0c03435daea210f81f1d92699e4e33e1,"market for steel, chromium steel 18/8",kilogram
+726,deaa46d286a9af09c1f3ef9ef3827ca7,market for waste emulsion paint,kilogram
+727,27a53a630a012304f4523d58ce0b77b2,"market for heat, district or industrial, natural gas",megajoule
+728,c18923c1432219fefd2d5dba9d330076,market for sodium cyanide,kilogram
+729,b2e73f7c5b8cfaf4806a71a10122f783,market for irrigation,cubic meter
+730,6cb453db7efc2604f29b5d24657e1c35,"market for transformer, high voltage use",kilogram
+731,fb2bff6f86ca38a32245ffb138975f84,"market group for electricity, high voltage",kilowatt hour
+732,cf976c77db37cd4c3f1376b8b27c35de,"market for electricity, medium voltage",kilowatt hour
+733,63f11998730af6f6d3309224c0c3803d,market for lead concentrate,kilogram
+734,e3672ed60c481a243f4c29dd76754e2b,"market for electricity, medium voltage",kilowatt hour
+735,915d0ca8f01d0edb98ef75f4012001fc,market for glass wool mat,kilogram
+736,22b9bac3e8c755378584103aadda75cb,"market for sulfur dioxide, liquid",kilogram
+737,5ea93f253a62910d9d35803ca0eec8fe,market for silicone product,kilogram
+738,72afba5a8d81b28f8952e251849aaff4,market for evaporation of milk,kilogram
+739,bde7404438fdfc7938698920aa9fc156,"market for water, decarbonised, at user",kilogram
+740,bc7f0e1eea822f9126713d105dc52455,"market for petrol, unleaded",kilogram
+741,57608f972bfeadc3a3e8a51ecd951572,"market for electricity, medium voltage",kilowatt hour
+742,aa343c4e6f6aa953de8cba738727c81f,"market for sodium perborate, tetrahydrate, powder",kilogram
+743,604303ca2a91283b789128f6b9249f65,market group for tap water,kilogram
+744,83a85fcfbb769a87a41768e1a717533f,"market for waste mineral wool, final disposal",kilogram
+745,cf05130d27ebb4a28fe13e6cb98e4d96,market for hard coal,kilogram
+746,d9f7cee5f68f1ddd0e98640bd968ab13,"market for iron ore, beneficiated, 65% Fe",kilogram
+747,ccfb64ee17372f0470664d018b316686,"market for polyvinylchloride, suspension polymerised",kilogram
+748,7789a8dc6f2f7d3ca653b27dcda977ca,market for wastewater from ceramic production,cubic meter
+749,60c55fc8b0354212c230e80c3aada681,market for carbon black,kilogram
+750,e83d9544507e67263a0d1247366dc0be,"market for electricity, medium voltage",kilowatt hour
+751,d667de99da77e65830bb3d26d8b77d27,"market for alkylbenzene sulfonate, linear, petrochemical",kilogram
+752,d7b2398f8a10f8a4f809783a70e9598e,"market for aluminium, wrought alloy",kilogram
+753,b42de7e15fccb706b22f6106a692c0e9,market for tap water,kilogram
+754,727d8684a6083e413f9aa802a9bfc879,market for dipropylene glycol monomethyl ether,kilogram
+755,6a81b4917d429988eba09940a97df970,"market for electricity, high voltage",kilowatt hour
+756,e18b81faca253a61f7187f23fc3b4c72,"market for electricity, medium voltage",kilowatt hour
+757,dc1208097a45ca8d251b6de4e1f9df03,"market for electricity, medium voltage, aluminium industry",kilowatt hour
+758,7810c3d5b475f779f13bd78a6ef22a77,market for irrigation,cubic meter
+759,3ce30880d9b80555ef296e575e7ba700,market for tap water,kilogram
+760,49428fd3850badd181a3e96c182ca307,"market for aluminium sulfate, powder",kilogram
+761,eb504f4cd619c009497963bac6a9d38a,market for average incineration residue,kilogram
+762,b37bf709dc4dcfb647bd15b67376dae4,market for irrigation,cubic meter
+763,0196cdff76bc9ebf7d686741c93051b8,market for pyridine,kilogram
+764,5b50240fa66d186ed9e579f3158bfb96,market for pump station,unit
+765,bbcfe1b77f4efa2070ad9e5677f52cf3,"water works construction, capacity 1.1E10l/year, conventional treatment",unit
+766,ffed690cdedfb5ec1979e7de35585a9c,"market for recultivation, iron mine",square meter
+767,afaf7f8701e4b2ffce2f086cd1c9b56a,market for phthalic anhydride,kilogram
+768,c99352449fbd4d2d43bff2e68b9dbe90,"market for transport, tractor and trailer, agricultural",ton kilometer
+769,bb415d7f49afbe3c0fe6727e40156c7f,market for reinforcing steel,kilogram
+770,d835f2870a70eec26ff57b80177dc526,"market for furnace, wood chips, softwood storage area, 1000kW",unit
+771,9d1d287b4ed396f2dc4073a3f36b15f1,"market for heat, from steam, in chemical industry",megajoule
+772,cec117a9995791b9be2f734f712f0176,"market for alkyd resin, long oil, without solvent, in 70% white spirit solution state",kilogram
+773,be26bf31dc7d0ef6769b50d3a07c0850,"heat production, natural gas, at boiler modulating >100kW",megajoule
+774,13329ecbb6f6c00a9f12182d9d45fc43,"market for funnel glass, for cathode ray tube display",kilogram
+775,5beed9319fe22d06b3d014bac34c4c5f,market for waste mineral oil,kilogram
+776,04a35152bc7d9eb1dc15b149eef855ed,market for basic oxygen furnace waste,kilogram
+777,c36d916cb527e86cabf40f3fc564c826,market for tetrafluoroethane,kilogram
+778,15f6314b578b15d95cdc428c358ce40d,market for wastewater from lorry production,cubic meter
+779,a7fdd55297bb4fd445c2c75b15c0afbc,market for spray-drying of milk,kilogram
+780,ad2c475320466cb2fd277e1db28a27c4,"market group for electricity, high voltage",kilowatt hour
+781,ca5ccb0f8d6ec7b531b5264de11a1ec3,market for clay pit infrastructure,unit
+782,7ce932862184e48439dfdb776a21ce45,"market for sawnwood, softwood, raw, dried (u=20%)",cubic meter
+783,6c5ba18db5db93211d6dbce38ffe0da8,"market for waste mineral wool, final disposal",kilogram
+784,6d56595b3370a29f1841117d63bd0691,"market for electricity, medium voltage",kilowatt hour
+785,2942f7c53b523e7c684e79c2a431908d,"market for sodium hypochlorite, without water, in 15% solution state",kilogram
+786,3abc84e4088a4c796bc24f74cd5733bd,market for bilge oil,kilogram
+787,523340e4e85ee026b74bc495f2a60c1d,"market for bisphenol A, powder",kilogram
+788,4530462f16af88054d371de2dbe73947,"market for sodium hydroxide, without water, in 50% solution state",kilogram
+789,547e27caa7b3e05ac84601708acfc6fe,"market for wood ash mixture, pure",kilogram
+790,008a8163b4e7276347fdb6f559cb5c47,"market for polyethylene, low density, granulate",kilogram
+791,c439ff0521080b70634344a73bcd8650,market for ethylene glycol monoethyl ether,kilogram
+792,d6ec3178b517a8cdfeaf7f9127761ac9,"market for lime, packed",kilogram
+793,758cca5f97b97407d9a8aef64c1a0cde,"market for energy feed, gross",megajoule
+794,35e704a26435b5d76d6764710d58913a,"market for waste concrete, not reinforced",kilogram
+795,1ee93e063d5ac749c5f62ffdfa960828,"market for steel, low-alloyed",kilogram
+796,764357b825fd61c4c053cc205d7ca19e,"market for electricity, medium voltage",kilowatt hour
+797,142df655963657d9e9e946796abd4793,"market for poultry manure, dried",kilogram
+798,0b92f752e90b06ea9c502e7df428cacd,market for trimethylamine,kilogram
+799,3ed5d97397dd4525fcf2e8d6208f115d,market for cement mortar,kilogram
+800,f79c68f71809c248deefd9f1dff8b0a3,"vinasse, from fermentation of sugarcane molasses, Recycled Content cut-off",kilogram
+801,bf7545571e83c8827ce3108e4ffa11d6,"market for hydrogen, liquid",kilogram
+802,cfd69721fae405474020ef8f39a4135a,"market for electricity, medium voltage, aluminium industry",kilowatt hour
+803,2a9f246c7bee5ca40bfa5489a3575c3f,"market for heat, district or industrial, natural gas",megajoule
+804,d74f2c8b5ca618ec0f6ae4548e203209,"market for electricity, medium voltage",kilowatt hour
+805,4af142704238ac38488c57bc3bdd841a,"aluminium scrap, new, Recycled Content cut-off",kilogram
+806,c732ddbf748026f347233f4691dddef9,"market for electricity, medium voltage, aluminium industry",kilowatt hour
+807,f3e5754701559a5cb5472175972877b4,"market for sludge, pig iron production",kilogram
+808,f40fd66afd44f3e4fe4051e5d7310e3b,"market for waste paper, sorted",kilogram
+809,f23b57e0a408c904d11f7f52b789e1ed,market for nylon 6,kilogram
+810,2402f073567dcd9e41421ecdf4fe32d7,market for wastewater from soft fibreboard production,cubic meter
+811,5bba2b7cd758eb54bcc37335a6329941,"market group for electricity, high voltage",kilowatt hour
+812,07fff365eb1080763396b29f7bc83dd2,market for dichloromethane,kilogram
+813,0c8cd9904c5d8970417ec98cc41037f4,"market for electricity, medium voltage",kilowatt hour
+814,212e89c01d2b6f4cc09ff7990efb7888,"market for palm oil, crude",kilogram
+815,a5983240c1ce9561b1741a3c6f490f62,market for naphtha,kilogram
+816,e40b7419ba9903ca2f26fecdb94119f1,"market for iron (III) chloride, without water, in 40% solution state",kilogram
+817,d1693f29bd81ab2644398ba65efedb7c,"market for powder coat, aluminium sheet",square meter
+818,3fd65a95c90d6942d4a042da0bddddfe,market for irrigation,cubic meter
+819,6b21af7937c0177f6aca13282c6199e7,market for hard coal,kilogram
+820,1e200a3049db914305193e1ee19bd4fa,"market for steel, low-alloyed, hot rolled",kilogram
+821,8b9bcd2df52d03057879fad191a17236,market for vinyl acetate,kilogram
+822,62bfa79d8865822527415b4b649d45bd,market for tap water,kilogram
+823,f3414815c3462907bcb904a2fe743e01,"market for electricity, low voltage",kilowatt hour
+824,424a9be62101921b4667ddb988cc4c37,"market for electricity, medium voltage",kilowatt hour
+825,626f903288f96823f4269186563a33fc,market for citric acid,kilogram
+826,643e99bdb7baa598afde2a80e55d3600,market for waste reinforced concrete,kilogram
+827,b18ace20913cd002487036c0f9b09ed5,"market for wastewater, average",cubic meter
+828,fd6d20b1cc0d6e1deae1990786abdf16,"market for diesel, burned in diesel-electric generating set, 10MW",megajoule
+829,b2f9b6407ef6a2d57fa3c4701bf39fa4,market for latex,kilogram
+830,6d010f22e16fbe2686a24e33bcdfbf16,"market for sulfur dioxide, liquid",kilogram
+831,0a4d46fa4130e1829f3d4bb8afc3f058,"market for electricity, medium voltage",kilowatt hour
+832,732a1cc69f5e19386ebeb3c5ad8aeadf,market for cow milk,kilogram
+833,d4883bb611557107b44ed2ccc70bc3c7,market for silver,kilogram
+834,5a2be1518b1c572b934c47fe8f17bef2,"market for electricity, medium voltage",kilowatt hour
+835,9d92f848eaa544b2748f2a87548d7959,"market for electricity, high voltage",kilowatt hour
+836,4e2a9b186ca409a3f35282ec07726a15,"market for industrial machine, heavy, unspecified",kilogram
+837,1eaa3a98979485722d6a8f88a028ffa7,market for aniline,kilogram
+838,f127c672f6d698cf7385808f410efc52,"market for anode, for metal electrolysis",kilogram
+839,fbdc7ab4413e89ef6589191cdc68cd42,market for spent solvent mixture,kilogram
+840,d18e8452573ef141e7453b08204ba634,market for phenolic resin,kilogram
+841,b4c9a62daaa45f0620ff2d62654d3b87,"market for electricity, high voltage",kilowatt hour

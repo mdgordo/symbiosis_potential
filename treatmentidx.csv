@@ -1,0 +1,24 @@
+treatment,activity,unit,ref flow,amt,exception
+6116ebff20b1cd36f16e1e93be27032f,"treatment of waste wood, post-consumer, sorting and shredding",kg,"wood chips, from post-consumer wood, measured as dry mass kilogram 1.0",1,
+bdf31e4a628048eac31515cc0baae678,aluminium oxide production,kg,aluminium oxide kilogram 1.0,1,
+2e04a1d722ba85acffebacf2ef3090e5,"treatment of aluminium scrap, new, at refiner",kg,"aluminium, cast alloy kilogram 1.0",1,
+786a4cc05c6ddb989a823e63f0a44809,ground granulated blast furnace slag production,kg,ground granulated blast furnace slag kilogram 1.0,1,
+20f8fd229472f0f624c716596dd2e54e,treatment of copper scrap by electrolytic refining,kg,copper kilogram 1.0,1,
+11cf2f0703cb50ef64b63d3c60b7547b,"treatment of waste concrete gravel, recycling",kg,waste concrete gravel kilogram -1.0,-1,
+63d36f02a1fc92c030e4f23485808516,portafer production,kg,portafer kilogram 1.0,1,
+ad52da8fa379e8d3bf91da20ae6dff84,"treatment of waste bulk iron, excluding reinforcement, sorting plant",kg,"waste bulk iron, excluding reinforcement kilogram -1.0",-1,
+8bbb0124d42fe8623cc350024e815f24,"treatment, sludge from pulp and paper production, landfarming",kg,"nitrogen fertiliser, as N kilogram 1.0",1,
+1a6720e85c6259e84e0f2d56e555eb44,"polyethylene production, high density, granulate, recycled",kg,"polyethylene, high density, granulate, recycled kilogram 1.0",1,
+60d4026aaf43a9c8521402e8e202352f,"polystyrene foam slab production, 100% recycled",kg,polystyrene foam slab kilogram 1.0,1,
+37b4e76d83d87e52990fddc037e0ee4a,"treatment of waste mineral wool, recycling",kg,waste mineral wool kilogram -1.0,-1,
+80e5d1a7a269279e82e3f86271b0d6e7,"treatment, sludge from pulp and paper production, landfarming",kg,"potassium fertiliser, as K2O kilogram 1.0",1,
+f593e681dd3b8e3ea76f17cebd28aeeb,"treatment, sludge from pulp and paper production, landfarming",kg,"phosphate fertiliser, as P2O5 kilogram 1.0",1,
+1be94e77e42455c14b5623d37e50ee06,"treatment of wood ash mixture, pure, landfarming",kg,"wood ash mixture, pure kilogram -1.0",-1,
+c03201092837c82f4a0fa39214ff7431,"treatment of waste paper, unsorted, sorting",kg,"waste paper, sorted kilogram 1.0",1,
+8d9e9b9243946fba6613dc3ebacbe275,"treatment of waste glass sheet, sorting plant",kg,waste glass sheet kilogram -1.0,-1,
+811fabc636b507d0d6f390582fc957b3,treatment of waste x-ray film,kg,silver kilogram 1.0,1,
+7d01cc4e185806b2a8b04ea0c4c3fa2e,"iron scrap, sorted, pressed, Recycled Content cut-off",kg,"iron scrap, sorted, pressed kilogram 1.0",1,
+534e37b9234c66761f3877a318325060,zinc oxide production,kg,zinc oxide kilogram 1.0,1,
+6116ebff20b1cd36f16e1e93be27032f,"treatment of waste wood, post-consumer, sorting and shredding",kg,"wood chips, from post-consumer wood, measured as dry mass kilogram 1.0",0.06173,5deb1131cf826b194516980b6ba72a07
+c03201092837c82f4a0fa39214ff7431,"treatment of waste paper, unsorted, sorting",kg,"waste paper, sorted kilogram 1.0",500,70b6d6f7b22c119e66293ab8b5cefaba
+c03201092837c82f4a0fa39214ff7431,"treatment of waste paper, unsorted, sorting",kg,"waste paper, sorted kilogram 1.0",500,cfbc8a71f3cec9b8e593470d411cb18f
